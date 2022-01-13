@@ -24,7 +24,7 @@ export class ProductService {
       name: 'IPhone X',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/15/2019',
+      expirationDate: '01/15/2021',
       type: 'mobile',
     },
     {
@@ -32,7 +32,7 @@ export class ProductService {
       name: 'IPhone XR',
       active: true,
       description: 'Like Brand New',
-      expirationDate: '01/14/2019',
+      expirationDate: '01/14/2021',
       type: 'mobile',
     },
     {
@@ -40,7 +40,7 @@ export class ProductService {
       name: 'Samsung S9',
       active: true,
       description: 'Like Brand New',
-      expirationDate: '01/13/2019',
+      expirationDate: '01/13/2021',
       type: 'mobile',
     },
     {
@@ -48,7 +48,7 @@ export class ProductService {
       name: 'Samsung Note 8',
       active: true,
       description: 'Like Brand New',
-      expirationDate: '01/12/2019',
+      expirationDate: '01/12/2021',
       type: 'mobile',
     },
     {
@@ -56,7 +56,7 @@ export class ProductService {
       name: 'LG Phone',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/11/2019',
+      expirationDate: '01/11/2021',
       type: 'mobile',
     },
     {
@@ -64,7 +64,7 @@ export class ProductService {
       name: 'IPad Pro',
       active: true,
       description: 'Like Brand New',
-      expirationDate: '01/10/2019',
+      expirationDate: '01/10/2021',
       type: 'tablet',
     },
     {
@@ -72,7 +72,7 @@ export class ProductService {
       name: 'Macbook Pro',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/9/2019',
+      expirationDate: '01/9/2021',
       type: 'computer',
     },
     {
@@ -80,7 +80,7 @@ export class ProductService {
       name: 'HP Thinkbook',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/8/2019',
+      expirationDate: '01/8/2021',
       type: 'computer',
     },
     {
@@ -88,7 +88,7 @@ export class ProductService {
       name: 'Dell Inspiron',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/7/2019',
+      expirationDate: '01/7/2021',
       type: 'computer',
     },
     {
@@ -96,7 +96,7 @@ export class ProductService {
       name: 'Dell Flat',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/6/2019',
+      expirationDate: '01/6/2021',
       type: 'computer',
     },
     {
@@ -104,7 +104,7 @@ export class ProductService {
       name: 'IPhone 6S',
       active: false,
       description: 'Like Brand New',
-      expirationDate: '01/5/2019',
+      expirationDate: '01/5/2021',
       type: 'mobile',
     },
   ];
